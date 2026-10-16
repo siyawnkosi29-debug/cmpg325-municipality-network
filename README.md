@@ -39,18 +39,22 @@ Client Requirements
 
 ---
 
- Repository Structure
-- cmpg325-municipality-network/
+ Repository Structure:
+ 
+- cmpg325-municipality-network
 - README.md
 - Final_Report_46499458.pdf
-  docs/
+  
+- docs:
   Testing_Report.pdf
   Troubleshooting_Log.md
-- images/
+  
+- images:
    01-topology.png
    02-router-interfaces.png
    16-phone-registered.png
-- configurations/
+  
+- configurations:
    router-config.txt
    core-switch-config.txt
    access-switch-config.txt
