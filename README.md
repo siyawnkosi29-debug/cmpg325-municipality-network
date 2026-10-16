@@ -44,18 +44,19 @@ Client Requirements
 - README.md
 - Final_Report_46499458.pdf
   docs/
-│ Testing_Report.pdf
-│   ├Troubleshooting_Log.md
-│   └── Reflection.md
-├── images/
-│   ├── 01-topology.png
-│   ├── 02-router-interfaces.png
-│   └── 16-phone-registered.png
-├── configurations/
-│   ├── router-config.txt
-│   ├── core-switch-config.txt
-│   └── access-switch-config.txt
-└── JB_Marks_Network.pkt
+  Testing_Report.pdf
+  Troubleshooting_Log.md
+- images/
+   01-topology.png
+   02-router-interfaces.png
+   16-phone-registered.png
+- configurations/
+   router-config.txt
+   core-switch-config.txt
+   access-switch-config.txt
+
+- JB_Marks_Network.pkt
+
 
 ---
 
