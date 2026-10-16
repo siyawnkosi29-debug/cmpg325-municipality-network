@@ -8,6 +8,9 @@
 - **Industry**: Municipal Services
 - **Addressing Block**: 172.30.72.0/23
 - **Networking Challenge**: DNS (Internal Name Resolution Service)
+- FINAL STATUS: COMPLETE
+- video:
+- 
 
 ---
 
@@ -37,9 +40,22 @@ Client Requirements
 ---
 
  Repository Structure
-- `/docs/` - Design documents, IP addressing, justifications.
-- `/images/` - Screenshots of Packet Tracer topology and tests.
-- `/configurations/` - Router and Switch configuration scripts.
+- cmpg325-municipality-network/
+- README.md
+- Final_Report_46499458.pdf
+  docs/
+│ Testing_Report.pdf
+│   ├Troubleshooting_Log.md
+│   └── Reflection.md
+├── images/
+│   ├── 01-topology.png
+│   ├── 02-router-interfaces.png
+│   └── 16-phone-registered.png
+├── configurations/
+│   ├── router-config.txt
+│   ├── core-switch-config.txt
+│   └── access-switch-config.txt
+└── JB_Marks_Network.pkt
 
 ---
 
@@ -48,4 +64,4 @@ Client Requirements
  Student Information
 - Siyabonga Nkosi
 - 46499458
- 28 August 2026
+
