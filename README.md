@@ -9,8 +9,7 @@
 - **Addressing Block**: 172.30.72.0/23
 - **Networking Challenge**: DNS (Internal Name Resolution Service)
 - FINAL STATUS: COMPLETE
-- video:
-- 
+
 
 ---
 
